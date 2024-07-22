@@ -1,0 +1,17 @@
+{
+    "Canopy1": {
+      "Is On": false
+    },
+    "Canopy2": {
+      "Is On": true
+    },
+    "ESS": {
+      "Is On": true
+    },
+    "Charger1": {
+      "Is On": false
+    },
+    "Charger2": {
+      "Is On": true
+    }
+  }
